@@ -105,7 +105,7 @@
     
     Qué es la tecnología GPT-3: La tecnología GPT-3 es un lenguaje autorregresivo que emplea el aprendizaje profundo (deep learning) para producir textos que simulan la redacción humana. Esta tecnología toma datos de un histórico y a partir de estos desarrolla un aprendizaje profundo o deep learning para entender lo que dicen los textos que se encuentran en la red. También plantea un tipo de modelo con un dilema sobre si la máquina estaría mejorando la inteligencia y capacidades humanas. Por ejemplo, podríamos poner a competir este lenguaje con el conocimiento de un notario, así si alguien pide una escritura esta aparezca de una manera automatizada. También podría reemplazar la labor de un médico al poder responder con base a toda la información que ha leído en la infinidad de documentos médicos disponibles en la red.
     
-    ![Untitled](E%CC%81TICA%20Y%20MANEJO%20DE%20DATOS%20PARA%20DATA%20SCIENCE%20E%20IA%20d00b3158b8ae4247b8712ae5c82d8317/Untitled.png)
+    ![Untitled](images_etica/Untitled.png)
     
 - POLÍTICAS PÚBLICAS - DATA FOR GOOD
     
